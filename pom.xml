@@ -83,7 +83,6 @@
 					<configuration>  
        	 					<skip>true</skip>  
    					 </configuration> 
-        			</plugin>
 				</plugin>
 				<plugin>
 					<artifactId>maven-war-plugin</artifactId>
